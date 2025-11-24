@@ -1,0 +1,14 @@
+transformers
+torch
+torchaudio
+librosa
+soundfile
+scikit-learn
+gradio
+ctc-segmentation
+huggingface_hub
+datasets
+numpy
+pandas
+tqdm
+matplotlib
